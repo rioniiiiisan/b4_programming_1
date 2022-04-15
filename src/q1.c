@@ -4,9 +4,9 @@
 int main(){
 	int sum = 0;
 	int n;
-	printf("Input value of n : ");
+	printf("Input integer of n : ");
 	scanf("%d",&n);
-	printf("sum = %d\n",func(n));
+	printf("\\sum_{k=1}^{n} k^2 = %d\n",func(n));
 	return 0;
 }
 
