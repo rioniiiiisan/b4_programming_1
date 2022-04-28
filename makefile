@@ -2,8 +2,8 @@
 
 CC := gcc
 OUTFILE := ./build/q1.out
-SOURCEFILE := ./src/q1.c
-CFLAGS := -o $(OUTFILE)
+SOURCEFILE := ./src/q1.c ./src/func.c
+CFLAGS := -Wall -o $(OUTFILE)
 CPPFLAGS :=
 LDFLAGS :=
 LDLIBS :=

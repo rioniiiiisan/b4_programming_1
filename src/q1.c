@@ -2,7 +2,6 @@
 #include "../include/func.h"
 
 int main(){
-	int sum = 0;
 	int n,m;
 
 	//(1)
