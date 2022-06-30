@@ -20,7 +20,7 @@ int func3(int n);
 ## function:func4
 戻り値：${}_n \mathrm{C}_m$  
 Arg1 n: $n\in\mathbb{N}$  
-Arg2 m: $m<=n\in\mathbb{N}$
+Arg2 m: $m\leq n\in\mathbb{N}$
 ```
 int func4(int n,int m);
 ```
